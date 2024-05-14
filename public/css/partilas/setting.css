@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  :root {
+    --fontFamily: IranYekan;
+    --fontFamilyHoma: Homa;
+
+  }
+  @font-face {
+    font-family: IranYekan;
+    src: url('..//../fonts/fa/IRANYekanWeb.eot');
+    src: url('..//../fonts/fa/IRANYekanWeb.ttf');
+    src: url('..//../fonts/fa/IRANYekanWeb.woff');
+    src: url('..//../fonts/fa/IRANYekanWeb.woff2');
+  }
+  .wrapper{
+    width: 100%;
+  }
+  @font-face {
+    font-family: homa;
+    src: url('../../fonts/homa/B\ Homa_0.ttf');
+  }
